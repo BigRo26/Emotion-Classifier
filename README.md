@@ -2,7 +2,7 @@
 
 Web application that detects the emotion of a speaker. Converts input audio files into audio spectrograms, and uses fine-tuned Inception-V3 CNN to predict emotion (anger, boredom, anxiety, happiness, sadness, disgust, or neutral)
 
-Original Dataset: [https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb](url)
+Original Dataset: [Berlin Database of Emotional Speech (EmoDB) on Kaggle](https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb)
 
 ## Login Screen
 
