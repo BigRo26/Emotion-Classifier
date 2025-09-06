@@ -18,7 +18,7 @@ Original Dataset: [Berlin Database of Emotional Speech (EmoDB) on Kaggle](https:
 
 ## Features
 
-- Fine-tuned Inception V3 CNN: Differentiates between forest fires and normal conditions with 92% accuracy
-- User Authentication: Uses Firebase to route users to specific profiles
-- Image Processing: Seamless file uploads and data transformations, along with confidence scores for each prediciton
+- Fine-tuned Inception V3 CNN: Classifies emotions with 90% accuracy
+- Audio Analysis: Utilizes librosa to convert uploaded audio samples into spectrograms 
+- Classification Results: Displays audio spectrogram along with top three emotion prediction probabilities
 
