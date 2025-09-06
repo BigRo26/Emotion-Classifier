@@ -6,7 +6,7 @@ Original Dataset: [Berlin Database of Emotional Speech (EmoDB) on Kaggle](https:
 
 ## Upload Audio Sample
 
-<img width="1883" height="903" alt="Screenshot 2025-09-05 174300" src="https://github.com/user-attachments/assets/23751f92-dabd-4eb9-bbe2-81b54956629d" />
+<img width="1889" height="867" alt="Screenshot 2025-09-05 222349" src="https://github.com/user-attachments/assets/8385577f-ff61-40ed-9011-2a291a30d077" />
 
 ## Analyze Audio Sample
 
