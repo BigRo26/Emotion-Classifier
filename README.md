@@ -4,17 +4,17 @@ Web application that detects the emotion of a speaker. Converts input audio file
 
 Original Dataset: [Berlin Database of Emotional Speech (EmoDB) on Kaggle](https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb)
 
-## Login Screen
+## Upload Audio Sample
 
-<img width="1883" height="940" alt="Screenshot 2025-08-14 133253" src="https://github.com/user-attachments/assets/e3c611de-c395-4ab9-b182-6899aaddd836" />
+<img width="1883" height="903" alt="Screenshot 2025-09-05 174300" src="https://github.com/user-attachments/assets/23751f92-dabd-4eb9-bbe2-81b54956629d" />
 
-## File Upload
+## Analyze Audio Sample
 
-<img width="1879" height="952" alt="Screenshot 2025-08-14 133345" src="https://github.com/user-attachments/assets/02c36745-70f6-4e00-9bca-c5db8779e955" />
+<img width="1881" height="868" alt="Screenshot 2025-09-05 174328" src="https://github.com/user-attachments/assets/b9791b8e-8e11-4419-b5ac-5f024a5b1bb1" />
 
-## Classification Results
+## Display Results
 
-<img width="1839" height="946" alt="Screenshot 2025-08-14 133414" src="https://github.com/user-attachments/assets/9f4b8ea9-271a-4626-98a3-77444f673e7e" />
+<img width="1831" height="616" alt="Screenshot 2025-09-05 174407" src="https://github.com/user-attachments/assets/7bd66e2a-9fcb-4e6c-874d-0eccb99bfa9b" />
 
 ## Features
 
